@@ -75,8 +75,6 @@ Choose contamination based on business priorities — precision vs. recall.
 
 ### 📊 Visualizations (saved in `results/`)
 
-- `anomaly_score_distribution.png`
-- `v1_amount_anomaly_scatter.png`
 - `confusion_matrix.png`
 
 ## 6. Limitations
@@ -89,10 +87,7 @@ Choose contamination based on business priorities — precision vs. recall.
 ## 7. Future Work
 
 - ✅ Semi-supervised learning (e.g., One-Class SVM with partial labels)
-- ✅ Feature engineering from `Time`
 - ✅ Model ensembles (e.g., combining LOF, Isolation Forest)
-- ✅ Real-time API simulation for deployment
-- ✅ Interactive web dashboard for visual insights
 
 ## 8. How to Run the Project
 
@@ -156,14 +151,5 @@ The `analysis_and_iteration.py` script will print outputs to the console and sav
 - **Scikit-learn** – Isolation Forest, metrics
 - **Matplotlib**, **Seaborn** – Visualizations
 - **Git & GitHub** – Version control and hosting
-
-## 10. Author
-
-**[Your Name]**\
-📧 Email: [your-email@example.com](mailto\:your-email@example.com)\
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
 ---
-
-> ⭐️ Star this repo if you found it useful. Contributions and feedback are welcome!
 
